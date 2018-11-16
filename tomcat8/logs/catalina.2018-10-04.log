@@ -1,0 +1,149 @@
+04-Oct-2018 18:01:38.892 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.34
+04-Oct-2018 18:01:38.913 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 4 2018 22:28:22 UTC
+04-Oct-2018 18:01:38.913 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.34.0
+04-Oct-2018 18:01:38.914 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Oct-2018 18:01:38.914 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.12.6
+04-Oct-2018 18:01:38.914 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+04-Oct-2018 18:01:38.914 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/jre
+04-Oct-2018 18:01:38.914 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_141-b15
+04-Oct-2018 18:01:38.914 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Oct-2018 18:01:38.915 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/LinkRay/tomcat8
+04-Oct-2018 18:01:38.915 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/LinkRay/tomcat8
+04-Oct-2018 18:01:38.916 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/LinkRay/tomcat8/conf/logging.properties
+04-Oct-2018 18:01:38.916 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Oct-2018 18:01:38.917 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Oct-2018 18:01:38.917 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Oct-2018 18:01:38.917 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+04-Oct-2018 18:01:38.917 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Oct-2018 18:01:38.917 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/LinkRay/tomcat8
+04-Oct-2018 18:01:38.917 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/LinkRay/tomcat8
+04-Oct-2018 18:01:38.917 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/LinkRay/tomcat8/temp
+04-Oct-2018 18:01:38.917 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/LinkRay/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Oct-2018 18:01:39.699 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Oct-2018 18:01:39.825 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Oct-2018 18:01:39.863 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+04-Oct-2018 18:01:39.865 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Oct-2018 18:01:39.866 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2576 ms
+04-Oct-2018 18:01:39.955 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Oct-2018 18:01:39.955 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.34
+04-Oct-2018 18:01:39.983 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/LinkRay/tomcat8/webapps/docs]
+04-Oct-2018 18:01:41.128 警告 [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [104] milliseconds.
+04-Oct-2018 18:01:41.214 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/LinkRay/tomcat8/webapps/docs] has finished in [1,231] ms
+04-Oct-2018 18:01:41.214 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/LinkRay/tomcat8/webapps/examples]
+04-Oct-2018 18:01:41.939 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/LinkRay/tomcat8/webapps/examples] has finished in [725] ms
+04-Oct-2018 18:01:41.939 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/LinkRay/tomcat8/webapps/host-manager]
+04-Oct-2018 18:01:41.981 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/LinkRay/tomcat8/webapps/host-manager] has finished in [42] ms
+04-Oct-2018 18:01:41.981 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/LinkRay/tomcat8/webapps/manager]
+04-Oct-2018 18:01:42.013 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/LinkRay/tomcat8/webapps/manager] has finished in [32] ms
+04-Oct-2018 18:01:42.014 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/LinkRay/tomcat8/webapps/ROOT]
+04-Oct-2018 18:01:42.044 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/LinkRay/tomcat8/webapps/ROOT] has finished in [29] ms
+04-Oct-2018 18:01:42.051 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Oct-2018 18:01:42.068 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+04-Oct-2018 18:01:42.070 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 2203 ms
+04-Oct-2018 18:01:46.683 信息 [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+04-Oct-2018 18:01:46.686 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-Oct-2018 18:01:46.745 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+04-Oct-2018 18:01:46.802 信息 [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Oct-2018 18:01:46.874 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-Oct-2018 18:01:46.882 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+04-Oct-2018 18:01:46.886 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+04-Oct-2018 18:01:46.886 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+04-Oct-2018 22:30:27.949 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.34
+04-Oct-2018 22:30:27.962 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 4 2018 22:28:22 UTC
+04-Oct-2018 22:30:27.963 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.34.0
+04-Oct-2018 22:30:27.963 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Oct-2018 22:30:27.963 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.12.6
+04-Oct-2018 22:30:27.963 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+04-Oct-2018 22:30:27.963 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/jre
+04-Oct-2018 22:30:27.963 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_141-b15
+04-Oct-2018 22:30:27.964 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Oct-2018 22:30:27.964 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/LinkRay/tomcat8
+04-Oct-2018 22:30:27.964 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/LinkRay/tomcat8
+04-Oct-2018 22:30:27.965 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/LinkRay/tomcat8/conf/logging.properties
+04-Oct-2018 22:30:27.965 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Oct-2018 22:30:27.965 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Oct-2018 22:30:27.965 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Oct-2018 22:30:27.965 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+04-Oct-2018 22:30:27.966 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Oct-2018 22:30:27.966 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/LinkRay/tomcat8
+04-Oct-2018 22:30:27.966 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/LinkRay/tomcat8
+04-Oct-2018 22:30:27.966 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/LinkRay/tomcat8/temp
+04-Oct-2018 22:30:27.966 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/LinkRay/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Oct-2018 22:30:28.707 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Oct-2018 22:30:28.838 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Oct-2018 22:30:28.876 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+04-Oct-2018 22:30:28.879 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Oct-2018 22:30:28.879 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2449 ms
+04-Oct-2018 22:30:28.967 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Oct-2018 22:30:28.967 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.34
+04-Oct-2018 22:30:28.992 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/LinkRay/tomcat8/webapps/docs]
+04-Oct-2018 22:30:30.190 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/LinkRay/tomcat8/webapps/docs] has finished in [1,197] ms
+04-Oct-2018 22:30:30.195 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/LinkRay/tomcat8/webapps/examples]
+04-Oct-2018 22:30:31.190 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/LinkRay/tomcat8/webapps/examples] has finished in [996] ms
+04-Oct-2018 22:30:31.192 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/LinkRay/tomcat8/webapps/host-manager]
+04-Oct-2018 22:30:31.302 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/LinkRay/tomcat8/webapps/host-manager] has finished in [110] ms
+04-Oct-2018 22:30:31.302 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/LinkRay/tomcat8/webapps/manager]
+04-Oct-2018 22:30:31.335 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/LinkRay/tomcat8/webapps/manager] has finished in [33] ms
+04-Oct-2018 22:30:31.337 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/LinkRay/tomcat8/webapps/ROOT]
+04-Oct-2018 22:30:31.364 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/LinkRay/tomcat8/webapps/ROOT] has finished in [27] ms
+04-Oct-2018 22:30:31.374 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Oct-2018 22:30:31.391 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+04-Oct-2018 22:30:31.396 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 2516 ms
+04-Oct-2018 22:38:21.986 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+04-Oct-2018 22:38:46.892 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+04-Oct-2018 22:39:10.586 信息 [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+04-Oct-2018 22:39:10.596 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-Oct-2018 22:39:10.669 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+04-Oct-2018 22:39:10.724 信息 [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Oct-2018 22:39:10.832 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-Oct-2018 22:39:10.837 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+04-Oct-2018 22:39:10.840 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+04-Oct-2018 22:39:10.841 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+04-Oct-2018 22:39:13.498 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.34
+04-Oct-2018 22:39:13.504 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 4 2018 22:28:22 UTC
+04-Oct-2018 22:39:13.504 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.34.0
+04-Oct-2018 22:39:13.504 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Oct-2018 22:39:13.505 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.12.6
+04-Oct-2018 22:39:13.505 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+04-Oct-2018 22:39:13.505 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/jre
+04-Oct-2018 22:39:13.506 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_141-b15
+04-Oct-2018 22:39:13.506 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Oct-2018 22:39:13.506 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/LinkRay/tomcat8
+04-Oct-2018 22:39:13.506 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/LinkRay/tomcat8
+04-Oct-2018 22:39:13.507 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/LinkRay/tomcat8/conf/logging.properties
+04-Oct-2018 22:39:13.507 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Oct-2018 22:39:13.507 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Oct-2018 22:39:13.508 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Oct-2018 22:39:13.508 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+04-Oct-2018 22:39:13.508 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Oct-2018 22:39:13.508 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/LinkRay/tomcat8
+04-Oct-2018 22:39:13.508 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/LinkRay/tomcat8
+04-Oct-2018 22:39:13.508 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/LinkRay/tomcat8/temp
+04-Oct-2018 22:39:13.509 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/LinkRay/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Oct-2018 22:39:13.762 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Oct-2018 22:39:13.813 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Oct-2018 22:39:13.838 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+04-Oct-2018 22:39:13.840 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Oct-2018 22:39:13.842 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 894 ms
+04-Oct-2018 22:39:13.903 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Oct-2018 22:39:13.904 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.34
+04-Oct-2018 22:39:13.915 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/LinkRay/tomcat8/webapps/docs]
+04-Oct-2018 22:39:14.388 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/LinkRay/tomcat8/webapps/docs] has finished in [474] ms
+04-Oct-2018 22:39:14.389 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/LinkRay/tomcat8/webapps/examples]
+04-Oct-2018 22:39:15.245 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/LinkRay/tomcat8/webapps/examples] has finished in [855] ms
+04-Oct-2018 22:39:15.245 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/LinkRay/tomcat8/webapps/host-manager]
+04-Oct-2018 22:39:15.324 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/LinkRay/tomcat8/webapps/host-manager] has finished in [79] ms
+04-Oct-2018 22:39:15.325 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/LinkRay/tomcat8/webapps/manager]
+04-Oct-2018 22:39:15.360 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/LinkRay/tomcat8/webapps/manager] has finished in [34] ms
+04-Oct-2018 22:39:15.360 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/LinkRay/tomcat8/webapps/ROOT]
+04-Oct-2018 22:39:15.389 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/LinkRay/tomcat8/webapps/ROOT] has finished in [28] ms
+04-Oct-2018 22:39:15.394 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Oct-2018 22:39:15.405 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+04-Oct-2018 22:39:15.408 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 1565 ms
+04-Oct-2018 22:39:26.380 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+04-Oct-2018 22:39:50.624 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+04-Oct-2018 22:48:57.480 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+04-Oct-2018 22:52:01.839 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+04-Oct-2018 22:53:45.254 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+04-Oct-2018 22:55:03.192 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+04-Oct-2018 22:57:02.704 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received

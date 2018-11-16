@@ -1,0 +1,19 @@
+16-Oct-2018 08:36:15.651 严重 [ajp-nio-8009-exec-9] org.apache.coyote.ajp.AjpMessage.processHeader Invalid message received with signature [18245]
+16-Oct-2018 15:51:49.078 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+16-Oct-2018 15:52:38.908 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+16-Oct-2018 15:53:46.161 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+16-Oct-2018 15:55:57.390 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+16-Oct-2018 16:01:24.776 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+16-Oct-2018 16:02:27.792 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+16-Oct-2018 16:06:59.802 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+16-Oct-2018 16:10:35.111 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+16-Oct-2018 16:13:30.437 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+16-Oct-2018 16:21:20.973 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+16-Oct-2018 16:22:15.184 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+16-Oct-2018 16:24:00.699 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+16-Oct-2018 16:25:05.303 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+16-Oct-2018 17:15:40.809 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+16-Oct-2018 17:16:16.372 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+16-Oct-2018 17:17:13.478 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+16-Oct-2018 17:20:08.963 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+16-Oct-2018 17:52:15.353 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
