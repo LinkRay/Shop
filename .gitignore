@@ -2,3 +2,4 @@
 iclasspath
 .settings
 .project
+.idea/*
